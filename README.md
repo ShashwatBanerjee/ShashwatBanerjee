@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on some projects of some hackathons, with the help of AI as I am in my learning phase.<br>👯 I’m looking to collaborate on some projects with my peer to enjoy working together as a team and also with some talented coders out there to take their guidance.<br>🤝 I’m looking for help with some parts of my code where AI would not be able to help me like a human would.<br>🌱 I’m currently learning Python for AI/ML and JAVA for DSA.<br>💬 Ask me about the things that I've mentioned.<br>⚡ Fun fact about me is that I want to be rich, and enjoy luxurious lifestyle by making money with things that excite me.
+🔭 Currently Working On:
+I’m actively building projects for hackathons, leveraging AI tools alongside hands-on coding as I continue to grow in my learning journey.
+
+👯 Looking to Collaborate:
+Open to collaborating with peers and experienced developers on meaningful projects. I enjoy teamwork, knowledge-sharing, and learning from talented coders in the community.
+
+🤝 Seeking Guidance:
+Looking for human insight and mentorship on complex parts of my code where real-world experience matters more than automation.
+
+🌱 Currently Learning:
+Python for AI/ML
+Java for Data Structures & Algorithms
+
+💬 Ask Me About:
+AI-assisted development, beginner-to-intermediate Python, Java fundamentals, hackathons, and collaborative coding.
+
+⚡ Fun Fact:
+I aspire to build wealth and enjoy a luxurious lifestyle by working on ideas and technologies that genuinely excite me.
 
 
 ## 🌐 Socials:
